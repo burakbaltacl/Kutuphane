@@ -65,7 +65,7 @@ body{
 
 }
 .hmenu li:hover{
-    background-color: rgb(207,46,46);
+    background-color: rgb(156, 21, 21);
     transition: .5s;
 }
 .hmenu li a{
