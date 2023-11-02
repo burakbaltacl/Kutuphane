@@ -172,29 +172,27 @@ ul.hmenu ul li a{
         transform: translateX(-3520px);
     }
     56.25% {
-        transform: translateX(-5000px);
+        transform: translateX(-4400px);
     }
     62.5% {
-        transform: translateX(-5000px);
+        transform: translateX(-4400px);
     }
     68.75% {
-        transform: translateX(-6000px);
+        transform: translateX(-5200px);
     }
     75% {
-        transform: translateX(0px);
+        transform: translateX(-5280px);
     }
     81.25% {
-        transform: translateX(0px);
+        transform: translateX(-6160px);
     }
     87.5% {
-        transform: translateX(0px);
+        transform: translateX(-6160px);
     }
     93.75% {
-        transform: translateX(0px);
+        transform: translateX(-7040px);
     }
-    100% {
-        transform: translateX(0px);
-    }
+    
 }
 
 
